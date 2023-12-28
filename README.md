@@ -2,3 +2,6 @@
 
 Stipendier och bidrag – av studenter, för studenter.
 
+## Version
+
+0.1.0
